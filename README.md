@@ -9,4 +9,4 @@ Member:
 
 
 Update:
-- Machine learning/ Deep learning not finished yet 🐧
+- Tất cả hình thức dự đoán hiện tại chỉ mang tính chất kiểm tra
